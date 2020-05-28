@@ -7,3 +7,5 @@
 不过由于不知道具体考试范围能不能考到只能看运气啦
 
 ![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/img/27f32f48300954b3.jpg)
+
+快快进入[目录]()吧
