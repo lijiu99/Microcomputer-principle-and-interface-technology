@@ -10,9 +10,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/img/27f32f48300954b3.jpg)
 
-<<<<<<< HEAD
 快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧
-=======
-快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧
-kkskkksk
->>>>>>> dc75d68ea45f66695ae16fe4c71deb64998887c7
