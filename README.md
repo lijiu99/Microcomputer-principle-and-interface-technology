@@ -1,4 +1,4 @@
-# 期末紧急微机自救笔记
+## 期末紧急微机自救笔记
 
 这里只是为了通过考试而极度贫瘠的笔记
 
@@ -11,3 +11,11 @@
 ![](https://cdn.jsdelivr.net/gh/youmingsama/PicGo/img/27f32f48300954b3.jpg)
 
 快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧
+
+## 参与人员
+
+[lijiu99](https://github.com/lijiu99)
+
+[LIbo zhang](https://github.com/shuaiqifan)
+
+[txsfyx](https://github.com/txsfyx)
