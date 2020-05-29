@@ -14,3 +14,8 @@
 
 ## 感谢以下超靠谱的参与人员
 
+- [lijiu99](https://github.com/lijiu99)
+
+- [LIbo zhang](https://github.com/shuaiqifan)
+
+- [txsfyx](https://github.com/txsfyx)
