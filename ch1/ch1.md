@@ -82,3 +82,13 @@ ps微型计算机中，如果运算结构溢出标志寄存器中的OF为将会�
 ##### 基本逻辑运算与常用逻辑部件
 
 计算机逻辑指的是输入与输出的一种因果关系，用0和1来表示，变量取值也只有两个0和1在逻辑代数中有与或非三种逻辑运算
+
+
+
+# 链接
+
+上一章：[第一章由于过于简单我把它总结成了大杂烩](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/ch1.md)
+
+下一章：[基本逻辑门](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/ch2.md)
+
+目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
