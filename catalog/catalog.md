@@ -9,3 +9,4 @@
 - [ASCLL](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/ch3.md)
 
 - [Unicode](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/Unicode.md)
+- [BCD码](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/BCD-code.md)
