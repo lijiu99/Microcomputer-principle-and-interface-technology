@@ -12,10 +12,10 @@
 
 快快进入[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)吧
 
-## 参与人员
+## 感谢以下超靠谱的参与人员
 
-[lijiu99](https://github.com/lijiu99)
+- [lijiu99](https://github.com/lijiu99)
 
-[LIbo zhang](https://github.com/shuaiqifan)
+- [LIbo zhang](https://github.com/shuaiqifan)
 
-[txsfyx](https://github.com/txsfyx)
+- [txsfyx](https://github.com/txsfyx)
