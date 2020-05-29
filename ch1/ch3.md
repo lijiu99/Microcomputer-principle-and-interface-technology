@@ -154,3 +154,11 @@
 ## 缺点
 
 ASCII的局限在于只能显示26个基本拉丁字母、阿拉伯数字和英式标点符号，因此只能用于显示现代美国英语（且处理naïve、café、élite等[外来语](https://zh.wikipedia.org/wiki/外來語)时，必须去除[附加符号](https://zh.wikipedia.org/wiki/附加符號)）。虽然EASCII解决了部分西欧语言的显示问题，但对更多其他语言依然无能为力。因此，现在的软件系统大多采用[Unicode](https://zh.wikipedia.org/wiki/Unicode)。
+
+## 链接
+
+上一章：[基本逻辑门](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/ch2.md)
+
+下一章：[Unicode](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/ch1/Unicode.md)
+
+目录：[目录](https://github.com/youmingsama/Microcomputer-principle-and-interface-technology/blob/master/catalog/catalog.md)
